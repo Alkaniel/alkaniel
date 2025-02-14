@@ -6,7 +6,7 @@ I learn a lot as an autodidact, so I can easy learn new languages on the field.
 
 # Skills 🛠️
 * **Java :** Complex Minecraft Modding, primarly.
-* **Golang** (_study field_) : Basic golang and html integration
-* ...
+* **Golang :** (_study field_) : Basic golang and html integration
+* **CSS** : Basic CSS implements 
 
 [![Les Stats GitHub d'Alkaniel](https://github-readme-stats.vercel.app/api?username=alkaniel&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
