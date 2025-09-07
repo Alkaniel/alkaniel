@@ -9,7 +9,7 @@ I learn a lot as an autodidact, so I can easy learn new languages on the field.
 * **Golang :** (_study field_) : Basic golang and html integration
 * **CSS** : Basic CSS knowledge 
 * **JavaScript :** Website creation /w React & TailwindCSS
-* **Docker ** : Container creations & orchestration
+* **Docker** : Container creations & orchestration
 * **Python** : Basic Python knowledge, basic scripting for CTFs
 
 [![Les Stats GitHub d'Alkaniel](https://github-readme-stats.vercel.app/api?username=alkaniel&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
